@@ -1,8 +1,8 @@
 # FoodSetGo
 
-![homePage](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/homePage.PNG)  
-![showPage](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/showPage.PNG)
-![clusterMap](https://raw.githubusercontent.com/Rishabhbafna/hungermania/main/screenshots/clusterMap.PNG)  
+![homePage](https://raw.githubusercontent.com/Rishabhbafna/foodsetgo/main/FoodSetGo/home.PNG)  
+![menuPage](https://raw.githubusercontent.com/Rishabhbafna/foodsetgo/main/FoodSetGo/menu.PNG)
+![cartPage](https://raw.githubusercontent.com/Rishabhbafna/foodsetgo/main/FoodSetGo/cart.PNG)  
 
 
 [HungerMania](https://afternoon-brushlands-75563.herokuapp.com/) is a website where users can create and review restaurants. In order to review or create a restaurant, you must have an account.
